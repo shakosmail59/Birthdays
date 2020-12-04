@@ -1,0 +1,14 @@
+D:\Xamarin\Happy_birthday_Mother\Happy_birthday_Mother\Happy_birthday_Mother\obj\Debug\netstandard2.0\Happy_birthday_Mother.csprojAssemblyReference.cache
+D:\Xamarin\Happy_birthday_Mother\Happy_birthday_Mother\Happy_birthday_Mother\bin\Debug\netstandard2.0\Happy_birthday_Mother.deps.json
+D:\Xamarin\Happy_birthday_Mother\Happy_birthday_Mother\Happy_birthday_Mother\bin\Debug\netstandard2.0\Happy_birthday_Mother.dll
+D:\Xamarin\Happy_birthday_Mother\Happy_birthday_Mother\Happy_birthday_Mother\bin\Debug\netstandard2.0\ref\Happy_birthday_Mother.dll
+D:\Xamarin\Happy_birthday_Mother\Happy_birthday_Mother\Happy_birthday_Mother\bin\Debug\netstandard2.0\Happy_birthday_Mother.pdb
+D:\Xamarin\Happy_birthday_Mother\Happy_birthday_Mother\Happy_birthday_Mother\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Xamarin\Happy_birthday_Mother\Happy_birthday_Mother\Happy_birthday_Mother\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Xamarin\Happy_birthday_Mother\Happy_birthday_Mother\Happy_birthday_Mother\obj\Debug\netstandard2.0\Happy_birthday_Mother.AssemblyInfoInputs.cache
+D:\Xamarin\Happy_birthday_Mother\Happy_birthday_Mother\Happy_birthday_Mother\obj\Debug\netstandard2.0\Happy_birthday_Mother.AssemblyInfo.cs
+D:\Xamarin\Happy_birthday_Mother\Happy_birthday_Mother\Happy_birthday_Mother\obj\Debug\netstandard2.0\Happy_birthday_Mother.csproj.CoreCompileInputs.cache
+D:\Xamarin\Happy_birthday_Mother\Happy_birthday_Mother\Happy_birthday_Mother\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin\Happy_birthday_Mother\Happy_birthday_Mother\Happy_birthday_Mother\obj\Debug\netstandard2.0\Happy_birthday_Mother.dll
+D:\Xamarin\Happy_birthday_Mother\Happy_birthday_Mother\Happy_birthday_Mother\obj\Debug\netstandard2.0\ref\Happy_birthday_Mother.dll
+D:\Xamarin\Happy_birthday_Mother\Happy_birthday_Mother\Happy_birthday_Mother\obj\Debug\netstandard2.0\Happy_birthday_Mother.pdb

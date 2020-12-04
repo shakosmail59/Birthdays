@@ -1,0 +1,232 @@
+/* p
+{
+ background-color: black;
+} */
+
+/* Header */
+
+body
+{
+    margin: 0px;
+    padding: 0px;
+    /* background-color: black; */
+}
+
+
+
+/* .glow {
+  
+} */
+
+@-webkit-keyframes glow {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #42f560, 0 0 30px  #11bf2e, 0 0 40px #109126, 0 0 50px #0c781e, 0 0 60px #065c14, 0 0 70px #044a0f;
+  } 
+  to {
+    text-shadow: 0 0 20px #fff, 0 0 30px #ff4da6, 0 0 40px #ff4da6, 0 0 50px #ff4da6, 0 0 60px #ff4da6, 0 0 70px #ff4da6, 0 0 80px #ff4da6;
+  }
+}
+
+header .navbar
+{
+    
+    background-color: rgb(45, 36, 56) !important;
+    width: 100%;
+
+}
+
+/* / Header pirveli mxare / */
+
+.navbar .navbar-nav .nav-item
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar .navbar-nav .nav-item a
+{
+    color: white;
+}
+.navbar .navbar-nav .nav-item a img
+{
+    width: 40px;
+    height: 45px;
+    object-fit: cover;
+}
+
+.navbar .navbar-nav .nav-item .nav-link .glow
+{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 30px;
+    color: #fff;
+    -webkit-animation: glow 1s ease-in-out infinite alternate;
+    -moz-animation: glow 1s ease-in-out infinite alternate;
+    animation: glow 3s ease-in-out infinite alternate;
+}
+
+/* / Header meore mxare / */
+
+.Saitebi
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.Saitebi
+{
+    margin-right: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.Saitebi li
+{
+    list-style-type: none;
+}
+
+.Saitebi a img
+{
+    margin-right: 20px;
+    width: 30px;
+    height: 30px;
+    object-fit: cover;
+}
+
+
+header .navbar
+{ 
+
+    background-color: rgb(29, 18, 99);
+     height: 70px; 
+}
+
+header .navbar .collapse .Left
+{
+   width: 75%;
+}
+
+header .navbar .collapse .Left
+{
+    display: flex;
+    align-items:center ;
+
+}
+header .navbar .collapse .Socialuri-qselebi
+{
+    width: 3%;
+} 
+
+header .navbar .collapse 
+{
+width: 100%;
+}
+
+/* header .navbar .collapse .navbar-nav
+{
+    display: flex;
+    align-items: center;
+    width: 50%;
+} */
+
+header .navbar .collapse .navbar-nav .nav-item .nav-link
+{
+    color: white;
+
+}
+
+header .navbar .collapse .navbar-nav .nav-item .nav-link .happy
+{
+    width: 70px;
+    height: 50px;
+}
+
+
+header .navbar .collapse .navbar-nav .nav-item .nav-link img
+{
+    width: 30;
+    height: 30px;
+
+}
+
+/* header .navbar .collapse .navbar-nav .nav-item .test
+{
+    width: 100px;
+} */
+
+/* Slide Show */
+
+.Slide-Show
+{
+    height: 1450;
+    width: 100%;
+    position: absolute;
+}
+
+
+.Slide-Show .carousel-inner
+{
+
+    height: 800px;
+    object-fit: cover;
+}
+
+.Slide-Show .carousel-inner .carousel-item .w-100
+{
+    height: 800px;
+    object-fit: cover;
+
+}
+
+/* Molocvis text */
+
+.molocvis-text
+{
+    /* background-color: black; */
+    margin-top: 850px;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+
+}
+
+.molocvis-text .jumbotron
+{
+    border-radius: 20px;
+}
+
+.molocvis-text .jumbotron .container .display-4
+{
+  display: flex;
+   justify-content: center;
+   margin-bottom: 25px;
+
+}
+
+.molocvis-text .jumbotron .container .lead
+{
+    font-size: 20;
+}
+
+.FullCards
+{
+    width: 100%;
+  
+    /* background-color: rgb(138, 146, 119); */
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    overflow: hidden;
+}
+
+
+.FullCards .Animation-Card .Card
+{
+    background-color: brown;
+    width: 23%;
+    height: 250px;   
+}
+
+/* .FullCards .Animation-Card .Card */

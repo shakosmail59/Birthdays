@@ -1,0 +1,31 @@
+@media only screen and (max-width: 800px)
+ {
+    /* body 
+    {
+    
+    } */
+
+    .molocvis-text
+    {
+      /* background-color: black; */
+      margin-top: 850px;
+      width: 90%;
+      margin-left: 5%;
+      margin-right: 5%;
+    }
+
+    .FullCards .Animation-Card .Card 
+    {
+      margin-bottom: 10%;
+    }
+   
+    header  .navbar .collapse .navbar-nav .nav-item .nav-link .glow
+    {
+      font-size: 10;
+     display: flex;
+     justify-content: center;
+     margin-left: 100px;
+
+    }
+   
+  }
